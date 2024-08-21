@@ -1,0 +1,54 @@
+PLP SOFTWARE ENGINEERING: ASSIGNMENT 1
+ANSWERS
+
+Part 1: 
+1. Software Engineering: The systematic development, operation, maintenance, and retirement of software. 
+Its importance lies in creating reliable, efficient, and maintainable software that drives innovation and economic growth.
+
+2. Key Milestones:
+1960s: NATO Software Engineering Conference coined the term.
+1970s: Structured programming and top-down design.
+1980s: Object-oriented programming and rapid application development.
+
+3. SDLC Phases:
+- Requirements gathering
+- Design
+- Implementation
+- Testing
+- Deployment
+- Maintenance
+
+4. Waterfall vs. Agile:
+- Waterfall: Linear, sequential phases. Suitable for small, well-defined projects.
+- Agile: Iterative, flexible. Suitable for complex, evolving projects.
+
+5. Roles:
+- Software Developer: Writes code.
+- QA Engineer: Tests software.
+- Project Manager: Oversees project.
+
+6. IDEs and VCS:
+- IDEs: Integrated development environments (e.g., Visual Studio, Eclipse).
+- VCS: Version control systems (e.g., Git, SVN).
+7. Challenges:
+- Changing requirements: Adapt to evolving needs.
+- Technical debt: Address legacy issues.
+- Team collaboration: Foster effective communication.
+8. Testing:
+Unit: Test individual components.
+Integration: Test interactions between components.
+System: Test the entire system.
+Acceptance: Test against user requirements.
+
+
+Part 2:
+
+1. Prompt Engineering: The art of crafting effective prompts to elicit desired responses from AI models. 
+It's crucial for getting accurate, relevant, and helpful outputs.
+
+2. Example:
+Vague prompt: "Tell me about AI."
+Improved prompt: "Explain the concept of artificial intelligence in simple terms, focusing on its applications in healthcare."
+
+3. Effectiveness: The improved prompt is more effective because it specifies the desired focus (healthcare), 
+making the response more relevant and informative. It's also clearer and more concise, reducing ambiguity.
